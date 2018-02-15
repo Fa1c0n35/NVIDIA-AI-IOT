@@ -137,7 +137,7 @@ Happy flying.
 
        ![Power Cable Soldering](./images/Power%20Cable%20Soldering.jpg)
 
-2. 3D-print the [Jetson Mount](../blob/master/3D%20Printable%20Components/NVIDIA%20Jetson%20Mount.stl) provided in this repo.  You can use your own printer or order a print using a service like [Shapeways](shapeways.com).
+2. 3D-print the [Jetson Mount](../../blob/master/3D%20Printable%20Components/NVIDIA%20Jetson%20Mount.stl) provided in this repo.  You can use your own printer or order a print using a service like [Shapeways](shapeways.com).
   ![3D Printed Jetson Mount](./images/Jetson%20Mount.jpg)
 
 3. Before attaching the Jetson to the J120 carrier board, make sure you've finished the [Software Setup Guide](Software-Setup-Guide) (you can SSH into the mounted drone, but doing installs and compilations on the original carrier board, with wall-current power and a full fan/heatsink, is much more convenient).
@@ -328,7 +328,7 @@ Here's a picture of the bottom of our frame that shows the LED placement.
 #### Landing Gear
 If you are attaching PX4FLOW sensor or Lidar Lite, there is not enough room below the drone. We suggest **extending the landing gear** to create extra vertical space below the frame.  
 To extend the landing gear, you can use 3D-printed leg extensions (any extender designed for the F450 Flamewheel arms should work, e.g. https://www.thingiverse.com/thing:60722).  
-We provide [an experimental model](../blob/master/3D%20Printable%20Components/DJI%20F450%20Flamewheel%20Arm%20Extension.stl) for 3D-printable arm extensions in the main project repo, which can be snapped and zip-tied on to the existing leg mounts.  
+We provide [an experimental model](../../blob/master/3D%20Printable%20Components/DJI%20F450%20Flamewheel%20Arm%20Extension.stl) for 3D-printable arm extensions in the main project repo, which can be snapped and zip-tied on to the existing leg mounts.  
 Here's how we attached(zip tied) it.
 ![3D Printed Landing Gearding Gear](./images/landingGear.jpg)
 
