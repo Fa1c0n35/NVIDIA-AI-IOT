@@ -23,7 +23,7 @@ Happy flying.
         * [8 Channel PWM Board](#8-channel-pwm-board)
         * [Attaching Compass, RC Receiver, and PixFalcon](#attaching-compass-rc-receiver-and-pixfalcon)
 * [Assembly 3: Verification, Testing, and Startup](#assembly-3-verification-testing-and-startup)
-* [Optional PX4FLOW Build](Optional-PX4FLOW-Build)
+* [Optional PX4FLOW Build](Optional-PX4Flow-Build)
 * [Optional ZED Camera Build](Optional-ZED-Camera-Build)
 
 ## Materials
