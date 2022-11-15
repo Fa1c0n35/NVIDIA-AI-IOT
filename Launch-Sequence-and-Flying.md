@@ -82,7 +82,7 @@ export ROS_IP=your_ground_station_computer_ip
 ### Controller
 **NOTE:** it is strongly recommended to run the command below when the drone is already in the air and flying in **POSITION CONTROL** mode. In such case altitude gain should be set to 0 otherwise, the initialization procedure in px4_controller node will try to change the drone's altitude according to the setting which may lead to sudden changes in the altitude.
 ```
-rosrun px4_controller px4_controller_node _altitude_gain:=0 _linear_speed=3 _joy_type:="shield" _obj_det_limit:=0.3
+rosrun px4_controller px4_controller_node _altitude_gain:=0 _linear_speed:=3 _joy_type:="shield" _obj_det_limit:=0.3
 ```
 
 ## Running drone and ground station components separately
